@@ -1,0 +1,26 @@
+.page {
+	width : 780px;
+	margin : auto;
+	font-size : 16px;
+	font family : 'source sans pro', Calibry, Tahoma, sans-serif;
+}
+
+h2{
+ color: red;
+text-align: center
+} 
+
+h1{
+ color: blue;
+ font-style: italic;
+} 
+.information-photo {
+	height : 250px;
+}
+
+.photo {
+	float : right;
+}
+
+
+	
